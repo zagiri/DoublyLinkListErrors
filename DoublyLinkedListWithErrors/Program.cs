@@ -13,7 +13,7 @@ namespace DoublyLinkedListWithErrors
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the doubly linked list with errors");
-           Console.ReadLine();
+            Console.ReadLine();
             return; // return
         }
     }
